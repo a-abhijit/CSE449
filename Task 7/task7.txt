@@ -1,1 +1,19 @@
+Overleaf link with edit access to ST, RA, and my Gmail.
+https://www.overleaf.com/1781669765dbdjgbcrryqf
+
+Conference submitted paper / paper submission / login Link:
+https://cmt3.research.microsoft.com/EICT2023/Track/1/Submission/Create
+
+Paper title:
+Utilizing Optical Character Recognition to Summarize Bengali text
+
+Paper submission ID:
+28
+
+Conference Name: 6th International Conference on Electrical Information and Communication Technology 2023
+
+Conference URL: 
+https://eict2023.kuet.ac.bd/
+
+20101440 Name Abhijit Saha
 
